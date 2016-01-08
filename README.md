@@ -1,4 +1,4 @@
-# HungryBot
+# KeyboardWarrior
 ==========================
 
 2016.01.06
@@ -14,8 +14,10 @@
 
 테스트 영상 링크
 ----
- 1. 텍스트 영상
+ 1. textedit
+ ----
 [![ScreenShot](https://raw.githubusercontent.com/hothonam/KeyboardWarrior/master/img/textedit.png)](https://youtu.be/mC9iUnwqMoo)
 
- 1. 텍스트 영상
+ 2. itunes play and facebook roaming 
+ ----
 [![ScreenShot](https://raw.githubusercontent.com/hothonam/KeyboardWarrior/master/img/SNS.png)](https://youtu.be/rB1mnHraK-I)
