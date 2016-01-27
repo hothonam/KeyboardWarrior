@@ -21,3 +21,7 @@
  2. itunes play and facebook roaming 
  ----
 [![ScreenShot](https://raw.githubusercontent.com/hothonam/KeyboardWarrior/master/img/SNS.png)](https://youtu.be/rB1mnHraK-I)
+
+ 2. 눈물가게를 지나야 출구
+ ----
+[![ScreenShot](https://raw.githubusercontent.com/hothonam/KeyboardWarrior/master/img/acrossTheTearStore.png)](https://youtu.be/xOmyuHEo154)
